@@ -1,6 +1,6 @@
 ## Contador de letras
 
-Desenvolva uma algoritmo que, conte cada letra de uma frase.
+Desenvolva uma algoritmo que conte cada letra de uma frase.
 
 **Por exemplo:**
 
